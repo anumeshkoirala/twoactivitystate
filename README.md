@@ -1,2 +1,2 @@
 
-![ss image](screen.PNG)
+![ss image](screen.png)
